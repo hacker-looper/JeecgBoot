@@ -50,7 +50,6 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 - 开发文档：  [https://help.jeecg.com](https://help.jeecg.com)
 - 反馈问题：  [在Github上提Issues](https://github.com/jeecgboot/JeecgBoot/issues/new)
 - 新手指南： [快速入门](http://www.jeecg.com/doc/quickstart) | [入门视频](https://www.bilibili.com/video/BV1wE421N7Xb)
-- QQ交流群 ： ⑨808791225、其他(满)
 - 在线演示 ：  [在线演示](http://boot3.jeecg.com)   | [APP演示](http://jeecg.com/appIndex)
 
 
@@ -444,15 +443,3 @@ Jeecg-Boot低代码开发平台，可以应用在任何J2EE项目的开发中，
 ![](https://oscimg.oschina.net/oscnet/up-d9659b2f324e33218476ec98c9b400e6508.png)
 
 ![](https://oscimg.oschina.net/oscnet/up-4868615395272d3206dbb960ade02dbc291.png)
-
-
-
-
-
-
-
-## 捐赠 
-
-如果觉得还不错，请作者喝杯咖啡吧 ☺
-
-![](https://static.oschina.net/uploads/img/201903/08155608_0EFX.png)
